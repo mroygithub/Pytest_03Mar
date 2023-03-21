@@ -1,0 +1,16 @@
+[
+  "testScripts/test_dockerAndrois.py::TestDockerAppiumWeb::test_docker_logo",
+  "testScripts/test_docker_cls.py::TestDockerApp::test_docker_logo",
+  "testScripts/test_google.py::TestGoogleApp::test_google_logo",
+  "testScripts/test_google.py::TestGoogleApp::test_google_searchbox",
+  "testScripts/test_google.py::TestGoogleApp::test_google_title",
+  "testScripts/test_google.py::test_google_logo",
+  "testScripts/test_google.py::test_google_searchbox",
+  "testScripts/test_google.py::test_google_title",
+  "testScripts/test_google_cls.py::TestGoogleApp::test_google_logo",
+  "testScripts/test_google_cls.py::TestGoogleApp::test_google_searchbox",
+  "testScripts/test_google_cls.py::TestGoogleApp::test_google_title",
+  "testScripts/test_google_cls.py::TestGoogleAppcls::test_google_logo",
+  "testScripts/test_google_cls.py::TestGoogleAppcls::test_google_searchbox",
+  "testScripts/test_google_cls.py::TestGoogleAppcls::test_google_title"
+]

@@ -1,0 +1,7 @@
+{
+  "testScripts/test_docker_cls.py::TestDockerApp::test_docker_logo": true,
+  "testScripts/test_google_cls.py::TestGoogleApp::test_google_logo": true,
+  "testScripts/test_google_cls.py::TestGoogleApp::test_google_searchbox": true,
+  "testScripts/test_google_cls.py::TestGoogleApp::test_google_title": true,
+  "testScripts/test_dockerAndrois.py::TestDockerAppiumWeb::test_docker_logo": true
+}
