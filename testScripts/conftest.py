@@ -1,6 +1,8 @@
 import json
 import sys
-sys.path.append('/Users/mithunroy/PycharmProjects/TrainingPytest')
+from pathlib import Path
+#sys.path.append('/Users/mithunroy/PycharmProjects/TrainingPytest')
+sys.path.append(str(Path(__file__).parent.parent))
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService

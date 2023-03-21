@@ -1,6 +1,8 @@
 import sys
 import pytest
-sys.path.append('/Users/mithunroy/PycharmProjects/TrainingPytest')
+from pathlib import Path
+#sys.path.append('/Users/mithunroy/PycharmProjects/TrainingPytest')
+sys.path.append(str(Path(__file__).parent.parent))
 from selenium.webdriver.common.by import By
 import time
 from appium import webdriver

@@ -1,6 +1,7 @@
 import sys
 import pytest
-sys.path.append('/Users/mithunroy/PycharmProjects/TrainingPytest')
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent))
 from pageObject.Docker_Home import Docker_Home
 from locatorsHTML import googlelocator
 from selenium import webdriver
